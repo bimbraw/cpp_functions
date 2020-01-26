@@ -42,7 +42,7 @@ double exponentiation(double n_1, int n_3)
     double nn;
     nn = n_1;
     
-    for(int i = 0; i < num_2-1; i++)
+    for(int i = 0; i < num_3-1; i++)
     {
         q = n_1;
         n_1 = q * nn;
