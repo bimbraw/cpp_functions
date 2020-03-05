@@ -1,4 +1,4 @@
-# cpp_functions
+# cpp_functions (7,8,9 left)
 C++  exercises (functions)
 
 Exercise 1. Write a function "addition". When the function gets invoked - addition(); - the user is asked to input any two numbers which are added together. The calculation is printed out in the console.
